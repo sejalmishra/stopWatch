@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 39, 39);
+}
+.box{
+    margin-top: 5%;
+    max-height: 340px;
+    width: 500px;
+    font-size: 60px;
+}
+.heading{
+    font-size: 32px;
+}
+.btn{
+    width: 20%;
+}
+.para{
+    margin-top: 5%;
+}
